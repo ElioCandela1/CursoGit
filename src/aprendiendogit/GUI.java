@@ -9,5 +9,8 @@ package aprendiendogit;
  * @author elior
  */
 public class GUI {
-    
+  String mensaje;
+ public void saludo (){
+     System.out.println("HOla");
+ }
 }
